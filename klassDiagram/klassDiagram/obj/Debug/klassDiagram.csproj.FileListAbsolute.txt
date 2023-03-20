@@ -1,0 +1,7 @@
+C:\Users\philip.jonsson4\source\repos\klassDiagram\klassDiagram\bin\Debug\klassDiagram.exe.config
+C:\Users\philip.jonsson4\source\repos\klassDiagram\klassDiagram\bin\Debug\klassDiagram.exe
+C:\Users\philip.jonsson4\source\repos\klassDiagram\klassDiagram\bin\Debug\klassDiagram.pdb
+C:\Users\philip.jonsson4\source\repos\klassDiagram\klassDiagram\obj\Debug\klassDiagram.csprojAssemblyReference.cache
+C:\Users\philip.jonsson4\source\repos\klassDiagram\klassDiagram\obj\Debug\klassDiagram.csproj.CoreCompileInputs.cache
+C:\Users\philip.jonsson4\source\repos\klassDiagram\klassDiagram\obj\Debug\klassDiagram.exe
+C:\Users\philip.jonsson4\source\repos\klassDiagram\klassDiagram\obj\Debug\klassDiagram.pdb
